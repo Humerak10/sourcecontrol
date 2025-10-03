@@ -34,6 +34,7 @@ struct ContentView: View {
             Text("Hello, world!")
             Button(" here"){}
             Button("click "){}
+            Text("add features")
         }
         .padding()
         
