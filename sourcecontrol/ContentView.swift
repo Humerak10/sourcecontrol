@@ -35,6 +35,7 @@ struct ContentView: View {
             Button(" here"){}
             Button("click "){}
             Text("f2 feature")
+            Text("add features")
         }
         .padding()
         
