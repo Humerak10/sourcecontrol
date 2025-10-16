@@ -37,7 +37,7 @@ struct ContentView: View {
             Text("f2 feature")
             Text("add features")
             Text("main branch commit")
-            Text("trying to ")
+            Text("trying to create a pull request")
         }
         .padding()
         
