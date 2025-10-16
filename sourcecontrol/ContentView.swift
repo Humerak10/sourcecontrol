@@ -38,7 +38,7 @@ struct ContentView: View {
             Text("add features")
             Text("main branch commit")
 
-            Text("trying to create a pull request again")
+            Text("trying to create a pull request ")
 
         }
         .padding()
